@@ -4,14 +4,14 @@ h1{
 }
 
 p {
-	color:grey;
+	color:darkblue;
    font-family: Impact, Haettenschweiler,<link href="https://fonts.googleapis.com/css?family=Trade+Winds&display=swap" rel="stylesheet">;
 	   font-size: 2em;
 }
 
 a:link{
-	color: #01FF55; 
-	font-size: 3em;
+	color:mediumaquamarine; 
+	font-size: 2em;
 }
 
 a:hover{
